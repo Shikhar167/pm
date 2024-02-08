@@ -1,5 +1,5 @@
-# Well, here's a webpage about me :)
-![Brain](assets/pm.png "Depiction of what a great PM can do")
+# A creative aiming to engineer the future
+![PM](assets/pm.png "Depiction of what a great PM can do")
 <br>
 **"I think. Therefore, I act. Therefore, I learn. Therefore, I think"**
 
