@@ -16,13 +16,15 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 
 
 # Work Experience
-**Business Systems Analyst @ Wolters Kluwer (_Jan 2020 - Dec 2022_)**
+**Business Analyst @ Wolters Kluwer (_Jan 2020 - Dec 2022_)**
+- Defined detailed requirements for 25+ use-cases as a product specialist, serving 58 US jurisdictions
+- Revised 35+ use-cases for a web app to sustain an influx of 115k new users through an extensive GAP analysis
+- Published process flows for 3 enterprise apps, standardizing documentation, and aiding KT across the organization
+- Issued documentation on the O2C flow in SAP ERP System, assisting 5 teams with data source field mapping
 - Created an interactive analytics tool in Splunk that mined real-time app logs and described 15+ use-cases
 - Diagnosed production issues and aided incident management using Splunk and MySQL over 28 monthly sprints
-- Defined detailed requirements for 25+ use-cases as a product specialist, serving 58 US jurisdictions
-- Partnered with solution architects to design a multi-cloud DR strategy in AWS/Azure, impacting 74k users
 - Crafted the integration of virus detection workflow into a web application, achieving 35 uploaded-file-scans/minute
-- Revised 35+ use-cases for a web app to sustain an influx of 115k new users through an extensive GAP analysis
+- Partnered with solution architects to design a multi-cloud DR strategy in AWS/Azure, impacting 74k users
 
 **Data Science Intern @ Mphasis Limited (_May 2019 - June 2019_)**
 - Conducted extensive research on process mining in R, experimenting on 500K rows of in-patient activity data
