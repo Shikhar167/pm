@@ -3,7 +3,7 @@
 <br>
 **"I think. Therefore, I act. Therefore, I learn. Therefore, I think"**
 
-I'm an Aspiring Product Manager deeply fascinated by the potential of blending data science with product management to create transformative user experiences. I believe in data-driven insights to guide the development of innovative, user-centric products. My passion lies in harnessing the power of data to inform strategy, innovation, and impact, ensuring that every product decision is rooted in solid evidence and strategic analysis.
+I'm an Aspiring Product Manager deeply fascinated by the potential of blending data-driven insights to guide the development of innovative, user-centric products. My passion lies in harnessing the power of data to inform strategy, innovation, and impact, ensuring that every product decision is aided by solid evidence and strategic analysis.
 
 I harbor an intense desire to solve impactful problems of the world. I work hard and don't stop till I achieve what I've set out to. I'm on a constant journey of self-improvement, and firmly beleive in adding value to the team I'm a part of. 
 
