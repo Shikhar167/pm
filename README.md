@@ -69,7 +69,7 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 # Leadership and Volunteer Experience
 ## Director - Entrepreneurship Cell, VIT
 <div align="center">
-<img src="assets/dir.png" alt="Dir" title="Dir" width="500" height="325"/>
+<img src="assets/dir.png" alt="Dir" title="Dir" width="500" height="400"/>
 </div>
 
 - Built an ecosystem for the development of startups on-campus enabling 28 startups in fundraising and incubation
@@ -77,7 +77,7 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 
 ## Co-founder - ”Nirvaah” (Translation : Subsistence)
 <div align="center">
-<img src="assets/mathi.png" alt="Mathi" title="Mathi" width="500" height="325"/>
+<img src="assets/mathi.png" alt="Mathi" title="Mathi" width="500" height="400"/>
 </div>
 
 - Started an initiative to empower rural women of Vellore to open shops and promote their products within campus
@@ -85,7 +85,7 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 
 ## Delegate - Entrepreneurship Camp, Malaysia
 <div align="center">
-<img src="assets/kl.png" alt="kl" title="kl" width="500" height="325"/>
+<img src="assets/kl.png" alt="kl" title="kl" width="500" height="400"/>
 </div>
 
 - Selected among 300 students for the Reactor E-Camp Design and Prototyping Contest organized in KL, Malaysia
