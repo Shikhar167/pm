@@ -1,4 +1,4 @@
-# About Me
+# Well, here's a webpage about me :)
 ![Brain](assets/brain.png "Depiction of My Brain")
 <br>
 **"I think. Therefore, I act. Therefore, I learn. Therefore, I think"**
