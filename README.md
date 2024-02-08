@@ -35,7 +35,56 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 - Applied Random Forest on healthcare data to predict users’ next activity in the journey with an accuracy of 70%
 <br><br>
 
-# Projects
+# Design Projects
+## SOP Legal Documents Intake Portal - Pandemic Preparedness and Digital Transformation 
+<div align="center">
+<img src="assets/ip.png" alt="SOP" title="SOP" width="500" height="400"/>
+</div>
+
+[Link to website](https://intake.ctcorporation.com/intakeportal/#/login)
+- Implemented 25 use-cases and enhancements into a customer-facing java application across 14 sprints impacting 58 US jurisdictions
+- Designed a multi-cloud system architecture in AWS and Azure, facilitating a more secure Disaster Recovery strategy
+- Designed the inclusion of OCR and Virus-scan use-cases to the system, supervised by the Principal Solution Architect of the firm<br><br>
+
+
+## User Base Migration to a Central Account Management Portal 
+<div align="center">
+<img src="assets/mya.png" alt="MYA" title="MYA" width="500" height="400"/>
+</div>
+
+[Link to website](https://myaccount.es.wolterskluwer.com/myaccount/#/login)
+- Modified >35 use-cases for a portal to accommodate an influx of 115,000 new active users across Asia, North America, and Europe
+- Implemented modules like Single Sign-On and Multi-Factor Authentication to strengthen application security
+
+## Startup-VIT : Ideation Platform
+<div align="center">
+<img src="assets/ecell.png" alt="svit" title="svit" width="500" height="400"/>
+</div>
+
+[Link to project](https://github.com/Shikhar167/Projects_VIT_Vellore/blob/master/Student_Chapter_Projects/Ideation_Platform_Startup_VIT.pdf)
+- Conducted user interviews with 10 campus startups and identified key requirements in order to achieve incubation
+- Designed a web portal to facilitate campus startups in ideation, recruitment, and mentorship activities
+- On-boarded 6 startups who used the portal to hire 50% of their new recruits, accelerating prototype development<br><br>
+
+## Skin Cancer Detection using K-Means
+<div align="center">
+<img src="assets/skin.png" alt="SKD" title="SKD" width="500" height="400"/>
+</div>
+
+[Link to project](https://github.com/Shikhar167/Projects_VIT_Vellore/blob/master/Academic_Projects/Skin%20Cancer%20Detection%20using%20K-Means%20Algorithm/Project%20Report%20Image%20Processing.pdf)
+- Built a model to process skin lesion images and determine if they are cancerous by evaluating physical characteristics
+- Used median filtering, clustering, edge detection techniques in MATLAB to deduce results with 92% accuracy<br><br>
+
+## Sentiment Analysis of Amazon Customer Review Data
+<div align="center">
+<img src="assets/amazon.png" alt="SA" title="SA" width="500" height="400"/>
+</div>
+
+[Link to project](https://github.com/Shikhar167/USC/tree/main/Amazon%20Review%20Sentiment%20Analysis)
+- Analyzed, cleaned, and pre-processed 2,000,000 records of Amazon customer review data in Python to prepare sample dataset
+- Performed binary sentiment classification, achieving an accuracy of 89% by fine-tuning machine learning models<br><br>
+
+# Data Science Projects
 ## MediumGEN - "Medium" Style Articles using Large Language Models
 <div align="center">
 <img src="assets/mediumgn.png" alt="MediumGEN" title="MediumGEN" width="500" height="400"/>
