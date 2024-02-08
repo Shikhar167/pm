@@ -66,23 +66,6 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 - Designed a web portal to facilitate campus startups in ideation, recruitment, and mentorship activities
 - On-boarded 6 startups who used the portal to hire 50% of their new recruits, accelerating prototype development<br><br>
 
-## Skin Cancer Detection using K-Means
-<div align="center">
-<img src="assets/skin.png" alt="SKD" title="SKD" width="500" height="400"/>
-</div>
-
-[Link to project](https://github.com/Shikhar167/Projects_VIT_Vellore/blob/master/Academic_Projects/Skin%20Cancer%20Detection%20using%20K-Means%20Algorithm/Project%20Report%20Image%20Processing.pdf)
-- Built a model to process skin lesion images and determine if they are cancerous by evaluating physical characteristics
-- Used median filtering, clustering, edge detection techniques in MATLAB to deduce results with 92% accuracy<br><br>
-
-## Sentiment Analysis of Amazon Customer Review Data
-<div align="center">
-<img src="assets/amazon.png" alt="SA" title="SA" width="500" height="400"/>
-</div>
-
-[Link to project](https://github.com/Shikhar167/USC/tree/main/Amazon%20Review%20Sentiment%20Analysis)
-- Analyzed, cleaned, and pre-processed 2,000,000 records of Amazon customer review data in Python to prepare sample dataset
-- Performed binary sentiment classification, achieving an accuracy of 89% by fine-tuning machine learning models<br><br>
 
 # Data Science Projects
 ## MediumGEN - "Medium" Style Articles using Large Language Models
