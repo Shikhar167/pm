@@ -69,7 +69,7 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 # Leadership and Volunteer Experience
 ## Director - Entrepreneurship Cell, VIT
 <div align="center">
-<img src="assets/dir.png" alt="Dir" title="Dir" width="500" height="400"/>
+<img src="assets/dir.png" alt="Dir" title="Dir" width="500" height="325"/>
 </div>
 
 - Built an ecosystem for the development of startups on-campus enabling 28 startups in fundraising and incubation
@@ -85,7 +85,7 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 
 ## Delegate - Entrepreneurship Camp, Malaysia
 <div align="center">
-<img src="assets/kl.png" alt="kl" title="kl" width="500" height="400"/>
+<img src="assets/kl.png" alt="kl" title="kl" width="500" height="325"/>
 </div>
 
 - Selected among 300 students for the Reactor E-Camp Design and Prototyping Contest organized in KL, Malaysia
@@ -167,14 +167,18 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 
 # Technical Skills
 
-### Languages
-- Python, R, JavaScript, SQL, CypherQL, MATLAB, HTML/CSS, Search Processing Language
+### Concepts
+- Requirements Specification, Non-Functional Requirements, User Stories, UML Diagrams, Market Research,
+GAP Analysis, Field Mapping, ERP Systems, Data Analysis, Machine Learning, System Architecture
+  
+### Programming Languages
+- Python, R, JavaScript, SQL, CypherQL, Search Processing Language
 
 ### Libraries
 - Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, NLTK, Torch, TensorFlow, Image
 
 ### Frameworks and Tools
-- PyTorch, AWS, Tableau, Splunk, Git, Huggingface, VS Code, JIRA, LucidChart
+- AWS, Tableau, Splunk, Git, Figma, Microsoft Office(Excel, Powerpoint), Jira, LucidChart
 
 ### Databases
 - MySQL, PostgreSQL, NeO4j, Snowflake
