@@ -38,7 +38,7 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 # Design Projects
 ## SOP Legal Documents Intake Portal - Pandemic Preparedness and Digital Transformation 
 <div align="center">
-<img src="assets/ip.png" alt="SOP" title="SOP" width="500" height="400"/>
+<img src="assets/ip.png" alt="SOP" title="SOP" width="500" height="325"/>
 </div>
 
 [Link to website](https://intake.ctcorporation.com/intakeportal/#/login)
@@ -49,7 +49,7 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 
 ## User Base Migration to a Central Account Management Portal 
 <div align="center">
-<img src="assets/mya.png" alt="MYA" title="MYA" width="500" height="400"/>
+<img src="assets/mya.png" alt="MYA" title="MYA" width="500" height="325"/>
 </div>
 
 [Link to website](https://myaccount.es.wolterskluwer.com/myaccount/#/login)
@@ -66,6 +66,30 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 - Designed a web portal to facilitate campus startups in ideation, recruitment, and mentorship activities
 - On-boarded 6 startups who used the portal to hire 50% of their new recruits, accelerating prototype development<br><br>
 
+# Leadership and Volunteer Experience
+## Director - Entrepreneurship Cell, VIT
+<div align="center">
+<img src="assets/dir.png" alt="Dir" title="Dir" width="500" height="325"/>
+</div>
+
+- Built an ecosystem for the development of startups on-campus enabling 28 startups in fundraising and incubation
+- Organized Entrepreneurship Summit 2019, attended by 2500+ participants and 45 tech startups from South India<br><br>
+
+## Co-founder - ”Nirvaah”
+<div align="center">
+<img src="assets/mathi.png" alt="Mathi" title="Mathi" width="500" height="325"/>
+</div>
+
+- Started an initiative to empower rural women of Vellore to open shops and promote their products within campus
+- Promoted a canteen named “Mathi” on campus, run entirely by elderly women and boosted sales by 35%<br><br>
+
+## Delegate - Entrepreneurship Camp, Malaysia
+<div align="center">
+<img src="assets/kl.png" alt="kl" title="kl" width="500" height="325"/>
+</div>
+
+- Selected among 300 students for the Reactor E-Camp Design and Prototyping Contest organized in KL, Malaysia
+- Won the prototyping contest by designing a MVP for a peer-graded platform focused on upskilling teachers<br><br>
 
 # Data Science Projects
 ## MediumGEN - "Medium" Style Articles using Large Language Models
