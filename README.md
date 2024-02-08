@@ -1,5 +1,5 @@
 # Well, here's a webpage about me :)
-![Brain](assets/brain.png "Depiction of My Brain")
+![Brain](assets/pm.png "Depiction of what a great PM can do")
 <br>
 **"I think. Therefore, I act. Therefore, I learn. Therefore, I think"**
 
