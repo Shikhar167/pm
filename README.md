@@ -75,7 +75,7 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 - Built an ecosystem for the development of startups on-campus enabling 28 startups in fundraising and incubation
 - Organized Entrepreneurship Summit 2019, attended by 2500+ participants and 45 tech startups from South India<br><br>
 
-## Co-founder - ”Nirvaah”
+## Co-founder - ”Nirvaah” (Translation : Subsistence)
 <div align="center">
 <img src="assets/mathi.png" alt="Mathi" title="Mathi" width="500" height="325"/>
 </div>
