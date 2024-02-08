@@ -1,4 +1,4 @@
-# Engineering the future
+# Engineering the Future
 ![PM](assets/pm.png "Depiction of what a great PM can do")
 <br>
 **"I think. Therefore, I act. Therefore, I learn. Therefore, I think"**
