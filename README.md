@@ -3,9 +3,10 @@
 <br>
 **"I think. Therefore, I act. Therefore, I learn. Therefore, I think"**
 
-I'm a passionate data science enhusiast always on the hunt for the next exciting problem to solve. I aspire to a role that fulfills my innate desire to solve impactful problems of the world. I work hard and don't stop till I achieve what I've set out to. I'm on a constant journey of self-improvement, and firmly beleive in adding value to the team I'm a part of. 
+I'm an aspiring Product Manager deeply fascinated by the potential of blending data science with product management to create transformative user experiences. I believe in data-driven insights to guide the development of innovative, user-centric products. My passion lies in harnessing the power of data to inform strategy, innovation, and impact, ensuring that every product decision is rooted in solid evidence and strategic analysis.I harbor an intense desire to solve impactful problems of the world. I work hard and don't stop till I achieve what I've set out to. I'm on a constant journey of self-improvement, and firmly beleive in adding value to the team I'm a part of. 
 
 If that sounds like something that interests you, shoot me an email at ssingh45@usc.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/shikharsingh167/), and maybe we can solve the next big problem together!<br><br>
+<br><br>
 
 # Education						       		
 - M.S, CS | University of Southern California, Los Angeles (_Dec 2024_)	 			        		
