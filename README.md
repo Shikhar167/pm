@@ -35,7 +35,7 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 - Applied Random Forest on healthcare data to predict users’ next activity in the journey with an accuracy of 70%
 <br><br>
 
-# Design Projects
+# Product Management Projects
 ## SOP Legal Documents Intake Portal - Pandemic Preparedness and Digital Transformation 
 <div align="center">
 <img src="assets/ip.png" alt="SOP" title="SOP" width="500" height="325"/>
