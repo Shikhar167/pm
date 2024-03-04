@@ -1,4 +1,16 @@
-# Engineering the Future
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZPLQHS56BP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZPLQHS56BP');
+</script>
+</head>
+  
+  # Engineering the Future
 ![PM](assets/pm.png "Depiction of what a great PM can do")
 <br>
 **"I think. Therefore, I act. Therefore, I learn. Therefore, I think"**
