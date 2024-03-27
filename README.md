@@ -16,7 +16,7 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 
 
 # Work Experience
-**Business Analyst @ Wolters Kluwer (_Jan 2020 - Dec 2022_)**
+**Technical Product Analyst @ Wolters Kluwer (_Jan 2020 - Dec 2022_)**
 - Defined detailed requirements for 25+ use-cases as a product specialist, serving 58 US jurisdictions
 - Revised 35+ use-cases for a web app to sustain an influx of 115k new users through an extensive GAP analysis
 - Published process flows for 3 enterprise apps, standardizing documentation, and aiding KT across the organization
