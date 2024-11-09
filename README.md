@@ -1,5 +1,5 @@
 # Engineering the Future
-![PM](assets/pm.png "Depiction of what a great PM can do")
+![PM](assets/ss.png "The Lion on the Peak")
 <br>
 **"I think. Therefore, I act. Therefore, I learn. Therefore, I think"**
 
