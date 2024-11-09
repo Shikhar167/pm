@@ -35,7 +35,7 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 - Applied Random Forest on healthcare data to predict users’ next activity in the journey with an accuracy of 70%
 <br><br>
 
-# Product Management Projects
+# Projects
 ## SOP Legal Documents Intake Portal - Pandemic Preparedness and Digital Transformation 
 <div align="center">
 <img src="assets/ip.png" alt="SOP" title="SOP" width="500" height="325"/>
@@ -91,7 +91,6 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 - Selected among 300 students for the Reactor E-Camp Design and Prototyping Contest organized in KL, Malaysia
 - Won the prototyping contest by designing a MVP for a peer-graded platform focused on upskilling teachers<br><br>
 
-# Data Science Projects
 ## MediumGEN - "Medium" Style Articles using Large Language Models
 <div align="center">
 <img src="assets/mediumgn.png" alt="MediumGEN" title="MediumGEN" width="500" height="400"/>
@@ -101,7 +100,6 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 - Fine tuned GPT 2 and LLAMA 2 using Low Rank Adaption (LoRA) on a dataset of 200K Medium Articles
 - Devised a weighted scoring mechanism, to assess coherence, tone, accuracy and writing style on a 10-pt scale
 - Experimented with prompting techniques to outscore baseline models by 15% across 40 generated articles<br><br>
-
 
 ## IPL2024 - Data Driven Player Selector Portal
 <div align="center">
@@ -113,48 +111,6 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 - Processed, cleaned, and transformed data using Pandas and identified 8 KPIs to evaluate player performance
 - Curated Best XI from player stats using 8 extracted KPIs, showcased on an interactive Tableau dashboard<br><br>
 
-## MarsFROST - Frost Identification on Mars using CNN
-<div align="center">
-<img src="assets/frost.png" alt="MarsFROST" title="MarsFROST" width="500" height="400"/>
-</div>
-
-[Link to project](https://github.com/Shikhar167/USC/tree/main/Frost%20Detection%20using%20CNN)
-- Trained a 3-layer CNN + MLP architecture on 214 HiRISE subframe images (5120*5120 px) of Martian terrain
-- Deployed various data augmentation and processing techniques to achieve a test macro avg f1-score of 92%<br><br>
-
-## Skin Cancer Detection using K-Means
-<div align="center">
-<img src="assets/skin.png" alt="SKD" title="SKD" width="500" height="400"/>
-</div>
-
-[Link to project](https://github.com/Shikhar167/Projects_VIT_Vellore/blob/master/Academic_Projects/Skin%20Cancer%20Detection%20using%20K-Means%20Algorithm/Project%20Report%20Image%20Processing.pdf)
-- Built a model to process skin lesion images and determine if they are cancerous by evaluating physical characteristics
-- Used median filtering, clustering, edge detection techniques in MATLAB to deduce results with 92% accuracy<br><br>
-
-## Sentiment Analysis of Amazon Customer Review Data
-<div align="center">
-<img src="assets/amazon.png" alt="SA" title="SA" width="500" height="400"/>
-</div>
-
-[Link to project](https://github.com/Shikhar167/USC/tree/main/Amazon%20Review%20Sentiment%20Analysis)
-- Analyzed, cleaned, and pre-processed 2,000,000 records of Amazon customer review data in Python to prepare sample dataset
-- Performed binary sentiment classification, achieving an accuracy of 89% by fine-tuning machine learning models<br><br>
-
-## Predicting Future Energy Consumption – Time Series Forecasting
-<div align="center">
-<img src="assets/time.png" alt="TS" title="TS" width="500" height="400"/>
-</div>
-
-[Link to project](https://github.com/Shikhar167/USC/tree/main/Time%20Series%20Forecasting%20-%20Energy%20Consumption)
-- Performed time series analysis on 16 years of PJM Interconnection East region Energy Consumption data measured in MW
-- Extracted features & calculated importance using an XGBoost model. Predicted future energy consumption with 86% accuracy<br><br>
-
-# Publication
-## Human Computer Interaction analysis on Game Developed in Python using Gesture Recognition
-[Publication](https://www.ijert.org/research/human-computer-interaction-game-developed-in-python-using-gesture-recognition-IJERTV8IS110227.pdf)
-- Conducted a comprehensive GUI evaluation of an interactive game developed in Python using Gesture Recognition techniques
-- Evaluated Nielsen’s heuristics and conducted trials across age groups to study cognitive ability based on game performance<br><br>
-
 # Awards, Honors and Accolades
 ## Merit Scholarship | VIT Vellore
 [View Credential](https://github.com/Shikhar167/Research-Projects-and-Awards/blob/master/Accolades/Shikhar%20Singh%20-%20Merit%20Scholarship.pdf)
@@ -165,20 +121,3 @@ If that sounds like something that interests you, shoot me an email at ssingh45@
 - Received the prestigious enterprise-wide Chairman's Award for digital transformation of a critical application during the pandemic
 <br><br>
 
-# Technical Skills
-
-### Concepts
-- Requirements Specification, Non-Functional Requirements, User Stories, UML Diagrams, Market Research,
-GAP Analysis, Field Mapping, ERP Systems, Data Analysis, Machine Learning, System Architecture
-  
-### Programming Languages
-- Python, R, JavaScript, SQL, CypherQL, Search Processing Language
-
-### Libraries
-- Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, NLTK, Torch, TensorFlow, Image
-
-### Frameworks and Tools
-- AWS, Tableau, Splunk, Git, Figma, Microsoft Office(Excel, Powerpoint), Jira, LucidChart
-
-### Databases
-- MySQL, PostgreSQL, NeO4j, Snowflake
