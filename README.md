@@ -1,4 +1,4 @@
-# Hello There! 👋🏽 
+# Hello There!
 ## Here's more about me 🏔️🦁
 
 I'm an Aspiring Product Manager deeply fascinated by the potential of blending data-driven insights to guide the development of innovative, user-centric products. My passion lies in harnessing the power of data to inform strategy, innovation, and impact, ensuring that every product decision is aided by solid evidence and strategic analysis.
