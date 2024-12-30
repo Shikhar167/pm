@@ -1,6 +1,6 @@
 # Shikhar Singh
 **Pronunciation:** *Shik-her Sing*  
-#### **Sanskrit Origin:**  *Shikhar* is derived from 'shikhara', literally translates to mountain peak in sanskrit. *Singh* is derived from 'simha', meaning 'lion'
+**Origins:**  *Shikhar* is derived from 'shikhara', literally translates to mountain peak in sanskrit. *Singh* is derived from 'simha', meaning 'lion'
 
 I'm an Aspiring Product Manager deeply fascinated by the potential of blending data-driven insights to guide the development of innovative, user-centric products. My passion lies in harnessing the power of data to inform strategy, innovation, and impact, ensuring that every product decision is aided by solid evidence and strategic analysis.
 
