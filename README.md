@@ -5,9 +5,6 @@ Pronounced '*Shik-Her-Sing*'. The name *Shikhar* is derived from 'shikhara', whi
 
 
 
-If that sounds like something that interests you, shoot me an email at ssingh45@usc.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/shikharsingh167/), and maybe we can solve the next big problem together!
-<br><br>
-
 # Education						       		
 - M.S, CS | University of Southern California, Los Angeles (_Dec 2024_)	 			        		
 - B.Tech, CSE | Vellore Institute of Technology, Vellore  (_Sept 2020_)
