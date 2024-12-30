@@ -1,5 +1,4 @@
 # Shikhar Singh
-# Shikhar Singh
 **Pronunciation:** *Shik-her Sing*  
 **Sanskrit Origin:**  
 - **Shikhar** = "Mountain Peak" 🏔️  
