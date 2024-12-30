@@ -1,7 +1,7 @@
 # Shikhar Singh
 Pronounced '*Shik-Her-Sing*'. The name *Shikhar* is derived from 'shikhara', which means 'mountain peak' in Sanskrit. *Singh* is derived from 'simha', meaning 'lion'
 
-## I pursue the 'Why?' and 'What?' to inform the 'How?'
+## I pursue 'Why?' and 'What?' to find 'How?'
 
 If that sounds like something that interests you, shoot me an email at ssingh45@usc.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/shikharsingh167/), and maybe we can solve the next big problem together!
 <br><br>
