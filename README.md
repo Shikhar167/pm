@@ -1,7 +1,7 @@
-# Shikhar Singh
+<h1 style="color: green;">Shikhar Singh.</h1>
 Pronounced '*Shik-Her-Sing*'. The name *Shikhar* is derived from 'shikhara', which means 'mountain peak' in Sanskrit. *Singh* is derived from 'simha', meaning 'lion'
 
-<h2 style="color: green;">I pursue 'Why?' and 'What?' to find 'How?'</h2>
+<h2 style="color: green;">I pursue the 'Why?' and the 'What?'</h2>
 
 
 
