@@ -1,7 +1,7 @@
 # Shikhar Singh
 Pronounced '*Shik-Her-Sing*'. The name *Shikhar* is derived from 'shikhara', which means 'mountain peak' in Sanskrit. *Singh* is derived from 'simha', meaning 'lion'
 
-### Pursuing the 'Why?' and 'What?' behind the problems of today.
+## I pursue the 'Why?' and 'What?' needed to inform the 'How?'.
 
 I harbor an intense desire to solve impactful problems of the world. I work hard and don't stop till I achieve what I've set out to. I'm on a constant journey of self-improvement, and firmly beleive in adding value to the team I'm a part of. 
 
