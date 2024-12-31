@@ -6,13 +6,13 @@ Pronounced '*Shik-Her-Sing*'. The name *Shikhar* is derived from 'shikhara', whi
 - Masters in Computer Science from the University of Southern California | Los Angeles *(Graduated Dec' 24)*		        		
 - Bachelors in Computer Science from Vellore Institute of Technology | Vellore, India *(Graduated Sep' 20)*
 
-  <style>
+   <style>
     .green-border {
-      border: 2px solid green;
+      border: 2px solid rgba(0, 128, 0, 0.5); /* Semi-transparent green border */
       transition: box-shadow 0.3s ease, border-color 0.3s ease;
     }
     .green-border:hover {
-      border-color: limegreen;
+      border-color: rgba(0, 255, 0, 0.8); /* Brighter green with less opacity */
       box-shadow: 0 4px 15px rgba(0, 128, 0, 0.5); /* Green shadow effect */
     }
   </style>
