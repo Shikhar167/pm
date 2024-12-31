@@ -13,7 +13,7 @@ Pronounced '*Shik-Her-Sing*'. The name *Shikhar* is derived from 'shikhara', whi
 <img src="assets/deletinc_cover.jpeg" alt="Delet.com" title="Delet.com" style="width:500px; height:200px; object-fit: cover;"/>
   </a>
 </div>
-I probably had the most fun building software ever during my 3 month internship at Delet. I led a team of 4 devs as a PM+developer to launch an AI Leasing Agent Chat feature for the Delet app which increased daily rental showings by 2x. Read further about my experience <a href = "https://www.linkedin.com/posts/shikharsingh167_product-productmanagement-pm-activity-7222910729174097920-PczX?utm_source=share&utm_medium=member_desktop" text="_bkank">here</a>
+I probably had the most fun I've ever had building software during my 3 month internship at Delet. I led a team of 4 devs as a PM+Dev to launch a GenAI Leasing Agent feature for the Delet app. Read further about my experience <a href = "https://www.linkedin.com/posts/shikharsingh167_product-productmanagement-pm-activity-7222910729174097920-PczX?utm_source=share&utm_medium=member_desktop" text="_bkank">here!</a>
 
 #### **Associate Product Manager @ Wolters Kluwer, Chennai (_Jan'20 - Dec'22_)**
 #### **Data Science Intern @ Mphasis Ltd, Bengaluru (_May'19 - Jul'19_)**
