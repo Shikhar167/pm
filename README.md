@@ -10,7 +10,7 @@ Pronounced '*Shik-Her-Sing*'. The name *Shikhar* is derived from 'shikhara', whi
 #### **GenAI Product Manager Intern @ Delet, Los Angeles (_May'24 - Aug'24_)**
 <div align="center">
   <a href="https://www.delet.com/" target="_blank">
-<img src="assets/deletinc_cover.jpeg" alt="Delet.com" title="Delet.com" width="500" height="200" style= object-fit: cover;/>
+<img src="assets/deletinc_cover.jpeg" alt="Delet.com" title="Delet.com" style="width:500px; height:200px;object-fit: cover"/>
   </a>
 </div>
 #### **Associate Product Manager @ Wolters Kluwer, Chennai (_Jan'20 - Dec'22_)**
