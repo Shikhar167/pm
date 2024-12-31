@@ -48,7 +48,7 @@ Mphasis was my first professional experience during my junior year of undergrad,
 
 #### **LogDetect.AI**
 <div align="center">
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/eekGkLPNUWY?si=YeXKuR5t_MUIO-t9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   <iframe width="500" height="400" style="border-radius:15px" src="https://www.youtube.com/embed/eekGkLPNUWY?si=YeXKuR5t_MUIO-t9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 Scraped a bunch of data from the IPL 2024 cricket tournament, performed data cleaning and transformations and created a swanky Tableau dashboard that lets you pick the best XI based on your set criteria. Had a lot of fun working on this! 
 <br><br>
