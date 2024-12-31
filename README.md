@@ -16,6 +16,13 @@ Pronounced '*Shik-Her-Sing*'. The name *Shikhar* is derived from 'shikhara', whi
 I probably had the most fun I've ever had building software during my 3 month internship at Delet. I led a team of 4 devs as a PM+Dev to launch a GenAI Leasing Agent feature for the Delet app. Read further about my experience <a href = "https://www.linkedin.com/posts/shikharsingh167_product-productmanagement-pm-activity-7222910729174097920-PczX?utm_source=share&utm_medium=member_desktop" text="_bkank">here!</a>
 
 #### **Associate Product Manager @ Wolters Kluwer, Chennai (_Jan'20 - Dec'22_)**
+<div align="center">
+  <a href="https://www.delet.com/" target="_blank">
+<img src="assets/deletinc_cover.jpeg" alt="Delet.com" title="Delet.com" style="width:500px; height:200px; object-fit: cover;"/>
+  </a>
+</div>
+I joined WK as a Product Analyst fresh out of college and eventually took up an APM role there for a SaaS product in the Legal Services domain. The 3 years I spent there were transformative to say the least. I worked on high-impact projects that generated millions for the organization and developed strong professional relationships that I cherish to this day!
+
 #### **Data Science Intern @ Mphasis Ltd, Bengaluru (_May'19 - Jul'19_)**
 
 
