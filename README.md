@@ -23,7 +23,7 @@ I probably had the most fun I've ever had building software during my 3 month in
 </div>
 I joined WK as a Product Analyst fresh out of college and eventually took up an APM role there for a SaaS product in the Legal Services domain. The 3 years I spent there were transformative to say the least. I worked on high-impact projects that generated millions for the organization and managed to develop strong professional relationships along the way 😁
 <br><br>
-#### **Data Science Intern @ Mphasis NEXT Labs Ltd, Bengaluru (_May'19 - Jul'19_)**
+#### **Data Science Intern @ Mphasis, Bengaluru (_May'19 - Jul'19_)**
 <div align="center">
   <a href="https://www.mphasis.com/home/innovation/nextlabs.html" target="_blank">
 <img src="assets/Mphasis_Logo.jpg" alt="Mphasis" title="Mphasis" style="width:500px; height:200px; object-fit: cover;"/>
