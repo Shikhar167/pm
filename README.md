@@ -81,7 +81,7 @@ Scraped a bunch of data from the IPL 2024 cricket tournament, performed data cle
 </div>
 <br><br>
 
-<h4>Thanks for scrolling 😁 </h4>
-Shoot me a message on <a href = "https://www.linkedin.com/in/shikharsingh167/" text="_blank">LinkedIn</a> or send me an email at <b>ss.singhshikhar@gmail.com</b> if you'd like to know more about me or just chat in general! 
+<h1 style="color: green; font-size: 60px">The scrolling stops here.</h1>
+If you'd like to know more about me, or just chat in general, send me a message on <a href = "https://www.linkedin.com/in/shikharsingh167/" text="_blank">LinkedIn</a> or email me at <b>ss.singhshikhar@gmail.com</b>. Ciao!!👋🏽
 
 
