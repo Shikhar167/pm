@@ -8,7 +8,7 @@ Pronounced '*Shik-Her-Sing*'. The name *Shikhar* is derived from 'shikhara', whi
 
   <style>
     .green-border {
-      border: 2px solid green;
+      border: 4px solid green;
       border-radius: 10px;
       transition: border-color 0.3s ease;
     }
@@ -30,7 +30,7 @@ I probably had the most fun I've ever had building software during my 3 month in
 #### **Associate Product Manager @ Wolters Kluwer, Chennai (_Jan'20 - Dec'22_)**
 <div align="center">
   <a href="https://www.wolterskluwer.com/en" target="_blank">
-<img src="assets/Wolters_Kluwer_Logo.jpg" alt="WK" title="WK" style="width:500px; height:200px; object-fit: cover;border-radius: 15px;border: 4px solid gray;"/>
+<img src="assets/Wolters_Kluwer_Logo.jpg"  class="green-border" alt="WK" title="WK" style="width:500px; height:200px; object-fit: cover;border-radius: 15px;"/>
   </a>
 </div>
 I joined WK as a Product Analyst fresh out of college and eventually took up an APM role there for a SaaS product in the Legal Services domain. The 3 years I spent there were transformative to say the least. I worked on high-impact projects that generated millions for the organization and managed to develop strong professional relationships along the way 😁
@@ -38,7 +38,7 @@ I joined WK as a Product Analyst fresh out of college and eventually took up an 
 #### **Data Science Intern @ Mphasis, Bengaluru (_May'19 - Jul'19_)**
 <div align="center">
   <a href="https://www.mphasis.com/home/innovation/nextlabs.html" target="_blank">
-<img src="assets/Mphasis_Logo.jpg" alt="Mphasis" title="Mphasis" style="width:500px; height:200px; object-fit: cover;border-radius: 15px;border: 4px solid gray;"/>
+<img src="assets/Mphasis_Logo.jpg"  class="green-border" alt="Mphasis" title="Mphasis" style="width:500px; height:200px; object-fit: cover;border-radius: 15px;"/>
   </a>
 </div>
 Mphasis was my first professional experience during my junior year of undergrad, and one I’m incredibly proud of. I learned new technology, worked with real-world datasets, and delivered impactful results. A highlight was presenting my project documentation to my manager and leaders, who were so impressed they showcased it to the entire team. I still keep two copies of my project report to this day—you can check it out <a href = "https://github.com/Shikhar167/Research-Projects-and-Awards/blob/master/Mphasis_Data_Science_Project/Mphasis_Internship.pdf" text="_bkank">here!</a>
