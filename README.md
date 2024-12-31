@@ -62,23 +62,23 @@ Scraped a bunch of data from the IPL 2024 cricket tournament, performed data cle
 <h3>...and a lot more <a href = "https://github.com/Shikhar167" text="_blank">here!</a></h3>
 <br>
 
-<h1 style="color:green;">Moments in time📸</h1>
+<h1 style="color:green;">Other Avenues 🌟</h1>
 ### **Director - Entrepreneurship Cell, VIT**
 <div align="center">
 <img class="green-border" src="assets/dir.png" alt="Dir" title="Dir" width="500" height="400" style="border-radius: 15px;"/>
 </div>
-
+<br>
 
 ### **Co-founder - ”Nirvaah” (Translation : Subsistence)**
 <div align="center">
 <img class="green-border" src="assets/mathi.png" alt="Mathi" title="Mathi" width="500" height="400" style="border-radius: 15px;"/>
 </div>
-
+<br>
 
 ### Delegate - Entrepreneurship Camp, Malaysia
 <div align="center">
-<img class="green-border" src="assets/kl.png" alt="kl" title="kl" width="500" height="400"style="border-radius: 15px;"/>
+<img class="green-border" src="assets/kl.png" alt="kl" title="kl" width="500" height="400" style="border-radius: 15px;"/>
 </div>
-
+<br>
 
 
