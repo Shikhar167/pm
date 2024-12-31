@@ -1,11 +1,9 @@
 <h1 style="color: green;">Shikhar Singh.</h1>
 Pronounced '*Shik-Her-Sing*'. The name *Shikhar* is derived from 'shikhara', which means 'mountain peak' in Sanskrit. *Singh* is derived from 'simha', meaning 'lion'
 
-<h2 style="color: green;">Obsessed with Why? & What?</h2>
+<h2 style="color: green;">Why? What?</h2><h2>How?</h2> 
 
-
-
-# Education						       		
+<h2 style="color:green;"> Where I've studied </h2>					       		
 - M.S, CS | University of Southern California, Los Angeles (_Dec 2024_)	 			        		
 - B.Tech, CSE | Vellore Institute of Technology, Vellore  (_Sept 2020_)
 
