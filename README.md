@@ -52,13 +52,6 @@ Mphasis was my first professional experience during my junior year of undergrad,
 Scraped a bunch of data from the IPL 2024 cricket tournament, performed data cleaning and transformations and created a swanky Tableau dashboard that lets you pick the best XI based on your set criteria. Had a lot of fun working on this! 
 <br><br>
 
-#### **Best XI**
-<div align="center">
-<img src="assets/ipl.gif" alt="IPL2024" title="IPL2024" width="500" height="400"/>
-</div>
-Scraped a bunch of data from the IPL 2024 cricket tournament, performed data cleaning and transformations and created a swanky Tableau dashboard that lets you pick the best XI based on your set criteria. Had a lot of fun working on this! 
-<br><br>
-
 
 # Leadership and Volunteer Experience
 ## Director - Entrepreneurship Cell, VIT
