@@ -1,5 +1,5 @@
 <h1 style="color: green; font-size: 50px">Shikhar Singh.</h1>
-<h3>Just an overall chill guy 🚶🏾‍♂️ </h3> 
+<h3 font-size: 28px">Just an overall chill guy 🚶🏾‍♂️ </h3> 
 Pronounced '*Shik-Her-Sing*'. The name *Shikhar* is derived from 'shikhara', which means 'mountain peak' in Sanskrit. *Singh* is derived from 'simha', meaning 'lion'
 <br>
 <h1 style="color:green;"> My degrees</h1>					       		
