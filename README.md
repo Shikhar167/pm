@@ -65,7 +65,7 @@ Scraped a bunch of data from the IPL 2024 cricket tournament, performed data cle
 <h1 style="color:green;">Moments in time📸</h1>
 ## Director - Entrepreneurship Cell, VIT
 <div align="center">
-<img class="green-border" src="assets/dir.png" alt="Dir" title="Dir" width="500" height="400" style="object-fit: cover;border-radius: 15px;"/>
+<img class="green-border" src="assets/dir.png" alt="Dir" title="Dir" width="500" height="400" style="border-radius: 15px;"/>
 </div>
 
 
