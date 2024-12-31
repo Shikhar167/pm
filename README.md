@@ -1,11 +1,10 @@
 <h1 style="color: green; font-size: 50px">Shikhar Singh.</h1>
 <h3>Just an overall chill guy 🚶🏾‍♂️ </h3> 
-<br>
 Pronounced '*Shik-Her-Sing*'. The name *Shikhar* is derived from 'shikhara', which means 'mountain peak' in Sanskrit. *Singh* is derived from 'simha', meaning 'lion'
 
-<h2 style="color:green;"> Where I've studied </h2>					       		
-- M.S, CS | University of Southern California, Los Angeles (_Dec 2024_)	 			        		
-- B.Tech, CSE | Vellore Institute of Technology, Vellore  (_Sept 2020_)
+<h2 style="color:green;"> My degrees (so far..)</h2>					       		
+- A Masters in Computer Science from the University of Southern California, Los Angeles,CA,USA (Graduated Dec'24)			        		
+- A Bachelors also in Computer Science from Vellore Institute of Technology, Vellore,India (Graduated Sep'20)
 
 
 # Work Experience
