@@ -60,6 +60,7 @@ Remember all the times you missed a meeting and had to ask multiple people just 
 Scraped a bunch of data from the IPL 2024 cricket tournament, performed data cleaning and transformations and created a swanky Tableau dashboard that lets you pick the best XI based on your set criteria. Had a lot of fun working on this! <a href = "https://github.com/Shikhar167/USC/tree/main/IPL2024" text="_blank">Project Link!</a>
 <br><br>
 
+<h2>...and a lot more <a href = "https://github.com/Shikhar167" text="_blank">here!</a></h2>
 
 # Leadership and Volunteer Experience
 ## Director - Entrepreneurship Cell, VIT
