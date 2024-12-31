@@ -8,7 +8,7 @@ Pronounced '*Shik-Her-Sing*'. The name *Shikhar* is derived from 'shikhara', whi
 
    <style>
     .green-border {
-      border: 2px solid rgba(0, 128, 0, 0.5); /* Semi-transparent green border */
+      border: 1px solid rgba(0, 128, 0, 0.5); /* Semi-transparent green border */
       transition: box-shadow 0.3s ease, border-color 0.3s ease;
     }
     .green-border:hover {
