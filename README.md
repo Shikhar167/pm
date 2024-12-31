@@ -75,10 +75,12 @@ Scraped a bunch of data from the IPL 2024 cricket tournament, performed data cle
 </div>
 <br>
 
-### Delegate - Entrepreneurship Camp, Malaysia
+### Delegate - Entrepreneurship Camp, Kuala Lumpur
 <div align="center">
 <img class="green-border" src="assets/kl.png" alt="kl" title="kl" width="500" height="400" style="border-radius: 15px;"/>
 </div>
-<br>
+<br><br>
+
+<h3 style="color:green;">Thanks for scrolling! Shoot me a message on <a href = "https://www.linkedin.com/in/shikharsingh167/" text="_blank">LinkedIn</a> or send me an email at **ss.singhshikhar@gmail.com** if you'd like to know more about me or just chat in general! </h3>
 
 
