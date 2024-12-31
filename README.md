@@ -29,7 +29,7 @@ I joined WK as a Product Analyst fresh out of college and eventually took up an 
 <img src="assets/Wolters_Kluwer_Logo.jpg" alt="WK" title="WK" style="width:500px; height:200px; object-fit: cover;"/>
   </a>
 </div>
-Mphasis was my first foray into the professional world during my Junior year of Undergrad, but probably the one experience I'm the most proud of. I arrived nervous and unsure and left fulfilled and excited. I got to learn a whole new technology, work with large real-life datasets, pick the brains of some of the best minds in the country, and deliver an impactful result at the end of it all. Something I remember fondly is that I had put in a lot of work into documenting my project and when I presented it to my manager and other leaders, they were so impressed that they showcased my work to the entire team! I still keep two copies of my project with report to this day, and you can check it out <a href = "https://github.com/Shikhar167/Research-Projects-and-Awards/blob/master/Mphasis_Data_Science_Project/Mphasis_Internship.pdf" text="_bkank">here!</a>
+Mphasis was my first professional experience during my junior year of undergrad, and one I’m incredibly proud of. I learned new technology, worked with real-world datasets, and delivered impactful results. A highlight was presenting my project documentation to my manager and leaders, who were so impressed they showcased it to the entire team. I still keep two copies of my project report to this day—you can check it out <a href = "https://github.com/Shikhar167/Research-Projects-and-Awards/blob/master/Mphasis_Data_Science_Project/Mphasis_Internship.pdf" text="_bkank">here!</a>
 <br><br>
 
 # Projects
