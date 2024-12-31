@@ -13,11 +13,11 @@
     {% include head-custom.html %}
   </head>
   <body>
-    <div class="wrapper" style="position: relative; overflow: visible; width: 1000px; margin-left: 5px;">
+    <div class="wrapper">
       <header>
    {% if site.logo %}
-         <img class='wrapper' src="{{ site.logo | relative_url }}" alt="Logo" 
-               style="width: 1000px; height: 600px;" />
+         <img src="{{ site.logo | relative_url }}" alt="Logo" 
+               style="width: 100vh; height: 600px;object-fit:cover; display:block" />
         {% endif %}
 
 
