@@ -44,36 +44,14 @@ I joined WK as a Product Analyst fresh out of college and eventually took up an 
 Mphasis was my first professional experience during my junior year of undergrad, and one I’m incredibly proud of. I learned new technology, worked with real-world datasets, and delivered impactful results. A highlight was presenting my project documentation to my manager and leaders, who were so impressed they showcased it to the entire team. I still keep two copies of my project report to this day—you can check it out <a href = "https://github.com/Shikhar167/Research-Projects-and-Awards/blob/master/Mphasis_Data_Science_Project/Mphasis_Internship.pdf" text="_bkank">here!</a>
 <br><br>
 
-# Projects
-## SOP Legal Documents Intake Portal - Pandemic Preparedness and Digital Transformation 
+<h1 style="color:green;">Stuff I've built🤖</h1>	
 <div align="center">
-<img src="assets/ip.png" alt="SOP" title="SOP" width="500" height="325"/>
+<img src="assets/ipl.gif" alt="IPL2024" title="IPL2024" width="500" height="400"/>
 </div>
-
-[Link to website](https://intake.ctcorporation.com/intakeportal/#/login)
-- Implemented 25 use-cases and enhancements into a customer-facing java application across 14 sprints impacting 58 US jurisdictions
-- Designed a multi-cloud system architecture in AWS and Azure, facilitating a more secure Disaster Recovery strategy
-- Designed the inclusion of OCR and Virus-scan use-cases to the system, supervised by the Principal Solution Architect of the firm<br><br>
+Scraped a bunch of data from the IPL 2024 cricket tournament, performed data cleaning and transformations and created a swanky Tableau dashboard that lets you pick the best XI based on your set criteria. Had a lot of fun working on this! 
+- <br><br>
 
 
-## User Base Migration to a Central Account Management Portal 
-<div align="center">
-<img src="assets/mya.png" alt="MYA" title="MYA" width="500" height="325"/>
-</div>
-
-[Link to website](https://myaccount.es.wolterskluwer.com/myaccount/#/login)
-- Modified >35 use-cases for a portal to accommodate an influx of 115,000 new active users across Asia, North America, and Europe
-- Implemented modules like Single Sign-On and Multi-Factor Authentication to strengthen application security
-
-## Startup-VIT : Ideation Platform
-<div align="center">
-<img src="assets/ecell.png" alt="svit" title="svit" width="500" height="400"/>
-</div>
-
-[Link to project](https://github.com/Shikhar167/Projects_VIT_Vellore/blob/master/Student_Chapter_Projects/Ideation_Platform_Startup_VIT.pdf)
-- Conducted user interviews with 10 campus startups and identified key requirements in order to achieve incubation
-- Designed a web portal to facilitate campus startups in ideation, recruitment, and mentorship activities
-- On-boarded 6 startups who used the portal to hire 50% of their new recruits, accelerating prototype development<br><br>
 
 # Leadership and Volunteer Experience
 ## Director - Entrepreneurship Cell, VIT
