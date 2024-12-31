@@ -2,12 +2,11 @@
 <h3>Just an overall chill guy 🚶🏾‍♂️ </h3> 
 Pronounced '*Shik-Her-Sing*'. The name *Shikhar* is derived from 'shikhara', which means 'mountain peak' in Sanskrit. *Singh* is derived from 'simha', meaning 'lion'
 
-<h2 style="color:green;"> My degrees (so far..)</h2>					       		
+<h2 style="color:green;"> My degrees (so far...)</h2>					       		
 - Masters in Computer Science from the University of Southern California | Los Angeles *(Graduated Dec'24)*		        		
 - Bachelors in Computer Science from Vellore Institute of Technology | Vellore, India *(Graduated Sep'20)*
 
-
-# Work Experience
+<h2 style="color:green;">Where I've worked</h2>		
 **Technical Product Analyst @ Wolters Kluwer (_Jan 2020 - Dec 2022_)**
 - Defined detailed requirements for 25+ use-cases as a product specialist, serving 58 US jurisdictions
 - Revised 35+ use-cases for a web app to sustain an influx of 115k new users through an extensive GAP analysis
