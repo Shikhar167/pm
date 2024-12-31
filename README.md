@@ -6,11 +6,11 @@ Pronounced '*Shik-Her-Sing*'. The name *Shikhar* is derived from 'shikhara', whi
 - Masters in Computer Science from the University of Southern California | Los Angeles *(Graduated Dec'24)*		        		
 - Bachelors in Computer Science from Vellore Institute of Technology | Vellore, India *(Graduated Sep'20)*
 
-<h2 style="color:green;">Where I've worked</h2>	
+<h1 style="color:green;">Where I've worked</h1>	
 
-### **GenAI Product Manager Intern @ Delet (_May'24 - Aug'24_)**
-### **Associate Product Manager @ Wolters Kluwer (_Jan'20 - Dec'22_)**
-### **Data Science Intern @ Mphasis Ltd (_May'19 - Jul'19_)**
+### **GenAI Product Manager Intern @ Delet, Los Angeles (_May'24 - Aug'24_)**
+### **Associate Product Manager @ Wolters Kluwer, Chennai (_Jan'20 - Dec'22_)**
+### **Data Science Intern @ Mphasis Ltd, Bengaluru (_May'19 - Jul'19_)**
 
 
 **Data Science Intern @ Mphasis Limited **
