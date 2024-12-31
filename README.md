@@ -1,7 +1,7 @@
-<h1 style="color: green; font-size: 36px">Shikhar Singh.</h1>
+<h1 style="color: green; font-size: 50px">Shikhar Singh.</h1>
 Pronounced '*Shik-Her-Sing*'. The name *Shikhar* is derived from 'shikhara', which means 'mountain peak' in Sanskrit. *Singh* is derived from 'simha', meaning 'lion'
 
-<h2 style="color: green;">Just a chill guy 🧑🏾‍💻 </h2> 
+<h2 style="color: green;">Just an overall chill guy 🚶🏾‍♂️ </h2> 
 
 <h2 style="color:green;"> Where I've studied </h2>					       		
 - M.S, CS | University of Southern California, Los Angeles (_Dec 2024_)	 			        		
