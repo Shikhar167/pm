@@ -14,8 +14,7 @@ Pronounced '*Shik-Her-Sing*'. The name *Shikhar* is derived from 'shikhara', whi
   </a>
 </div>
 I probably had the most fun I've ever had building software during my 3 month internship at Delet. I led a team of 4 devs as a PM+Dev to launch a GenAI Leasing Agent feature for the Delet app. Read further about my experience <a href = "https://www.linkedin.com/posts/shikharsingh167_product-productmanagement-pm-activity-7222910729174097920-PczX?utm_source=share&utm_medium=member_desktop" text="_bkank">here!</a>
-<br>
-
+<br><br>
 #### **Associate Product Manager @ Wolters Kluwer, Chennai (_Jan'20 - Dec'22_)**
 <div align="center">
   <a href="https://www.wolterskluwer.com/en" target="_blank">
@@ -23,9 +22,15 @@ I probably had the most fun I've ever had building software during my 3 month in
   </a>
 </div>
 I joined WK as a Product Analyst fresh out of college and eventually took up an APM role there for a SaaS product in the Legal Services domain. The 3 years I spent there were transformative to say the least. I worked on high-impact projects that generated millions for the organization and managed to develop strong professional relationships along the way 😁
-<br>
+<br><br>
 #### **Data Science Intern @ Mphasis Ltd, Bengaluru (_May'19 - Jul'19_)**
-
+<div align="center">
+  <a href="https://www.wolterskluwer.com/en" target="_blank">
+<img src="assets/Wolters_Kluwer_Logo.jpg" alt="WK" title="WK" style="width:500px; height:200px; object-fit: cover;"/>
+  </a>
+</div>
+Mphasis was my first foray into the professional world during my Junior year of Undergrad, but probably the one experience I'm the most proud of. I arrived nervous and unsure and left fulfilled and excited. I got to learn a whole new technology, work with large real-life datasets, pick the brains of some of the best minds in the country, and deliver an impactful result at the end of it all. Something I remember fondly is that I had put in a lot of work into documenting my project and when I presented it to my manager and other leaders, they were so impressed that they showcased my work to the entire team! I still keep two copies of my project with report to this day, and you can check it out <a href = "https://github.com/Shikhar167/Research-Projects-and-Awards/blob/master/Mphasis_Data_Science_Project/Mphasis_Internship.pdf" text="_bkank">here!</a>
+<br><br>
 
 # Projects
 ## SOP Legal Documents Intake Portal - Pandemic Preparedness and Digital Transformation 
