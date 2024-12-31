@@ -3,8 +3,8 @@
 Pronounced '*Shik-Her-Sing*'. The name *Shikhar* is derived from 'shikhara', which means 'mountain peak' in Sanskrit. *Singh* is derived from 'simha', meaning 'lion'
 
 <h2 style="color:green;"> My degrees (so far..)</h2>					       		
-- A Masters in Computer Science from the University of Southern California, Los Angeles,CA,USA (Graduated Dec'24)			        		
-- A Bachelors also in Computer Science from Vellore Institute of Technology, Vellore,India (Graduated Sep'20)
+- Masters in Computer Science from the University of Southern California, Los Angeles,CA,USA (Graduated Dec'24)			        		
+- Bachelors in Computer Science from Vellore Institute of Technology, Vellore,India (Graduated Sep'20)
 
 
 # Work Experience
