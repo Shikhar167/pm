@@ -7,15 +7,8 @@ Pronounced '*Shik-Her-Sing*'. The name *Shikhar* is derived from 'shikhara', whi
 - Bachelors in Computer Science from Vellore Institute of Technology | Vellore, India *(Graduated Sep'20)*
 
 <h2 style="color:green;">Where I've worked</h2>		
-**Technical Product Analyst @ Wolters Kluwer (_Jan 2020 - Dec 2022_)**
-- Defined detailed requirements for 25+ use-cases as a product specialist, serving 58 US jurisdictions
-- Revised 35+ use-cases for a web app to sustain an influx of 115k new users through an extensive GAP analysis
-- Published process flows for 3 enterprise apps, standardizing documentation, and aiding KT across the organization
-- Issued documentation on the O2C flow in SAP ERP System, assisting 5 teams with data source field mapping
-- Created an interactive analytics tool in Splunk that mined real-time app logs and described 15+ use-cases
-- Diagnosed production issues and aided incident management using Splunk and MySQL over 28 monthly sprints
-- Crafted the integration of virus detection workflow into a web application, achieving 35 uploaded-file-scans/minute
-- Partnered with solution architects to design a multi-cloud DR strategy in AWS/Azure, impacting 74k users
+**GenAI Product Manager Intern @ Delet**
+
 
 **Data Science Intern @ Mphasis Limited (_May 2019 - June 2019_)**
 - Conducted extensive research on process mining in R, experimenting on 500K rows of in-patient activity data
