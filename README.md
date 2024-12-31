@@ -8,7 +8,7 @@ Pronounced '*Shik-Her-Sing*'. The name *Shikhar* is derived from 'shikhara', whi
 
 <h2 style="color:green;">Where I've worked</h2>	
 
-## **GenAI Product Manager Intern @ Delet (_May'24 - Aug'24_)**
+### **GenAI Product Manager Intern @ Delet (_May'24 - Aug'24_)**
 
 
 **Data Science Intern @ Mphasis Limited **
