@@ -50,7 +50,7 @@ Mphasis was my first professional experience during my junior year of undergrad,
 <div align="center">
    <iframe width="500" height="400" style="border-radius:15px" src="https://www.youtube.com/embed/eekGkLPNUWY?si=YeXKuR5t_MUIO-t9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-Scraped a bunch of data from the IPL 2024 cricket tournament, performed data cleaning and transformations and created a swanky Tableau dashboard that lets you pick the best XI based on your set criteria. Had a lot of fun working on this! 
+Remember all the times you missed a meeting and had to ask multiple people just to know what was decided? What if you had a dedicated AI assistant who you could ask anything about the meetings you missed, and it always gave you up-to-date and accurate answers? LogDetect.AI is exactly that. <a href = "https://github.com/Shikhar167/LogDetect.AI" text="_blank">Check it out here!</a>
 <br><br>
 
 #### **Best XI**
