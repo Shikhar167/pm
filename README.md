@@ -6,11 +6,12 @@ Pronounced '*Shik-Her-Sing*'. The name *Shikhar* is derived from 'shikhara', whi
 - Masters in Computer Science from the University of Southern California | Los Angeles *(Graduated Dec'24)*		        		
 - Bachelors in Computer Science from Vellore Institute of Technology | Vellore, India *(Graduated Sep'20)*
 
-<h2 style="color:green;">Where I've worked</h2>		
-**GenAI Product Manager Intern @ Delet**
+<h2 style="color:green;">Where I've worked</h2>	
+
+**GenAI Product Manager Intern @ Delet (_May'24 - Aug'24_)**
 
 
-**Data Science Intern @ Mphasis Limited (_May 2019 - June 2019_)**
+**Data Science Intern @ Mphasis Limited **
 - Conducted extensive research on process mining in R, experimenting on 500K rows of in-patient activity data
 - Proposed Graph DB as an effective store for join-intensive activity data, to accelerate response times by 50%
 - Implemented a POC in the NeO4j GraphDB, generating mined process graph and improving query times by 20%
