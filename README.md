@@ -13,15 +13,6 @@ Pronounced '*Shik-Her-Sing*'. The name *Shikhar* is derived from 'shikhara', whi
 ### **Data Science Intern @ Mphasis Ltd, Bengaluru (_May'19 - Jul'19_)**
 
 
-**Data Science Intern @ Mphasis Limited **
-- Conducted extensive research on process mining in R, experimenting on 500K rows of in-patient activity data
-- Proposed Graph DB as an effective store for join-intensive activity data, to accelerate response times by 50%
-- Implemented a POC in the NeO4j GraphDB, generating mined process graph and improving query times by 20%
-- Optimized query performance using CypherQL to improve 15 methods of unearthing KPIs, enhancing readability
-- Refined process graph visualization using vis.js with 3 adaptive KPI indicators and animated edge traversal
-- Applied Random Forest on healthcare data to predict users’ next activity in the journey with an accuracy of 70%
-<br><br>
-
 # Projects
 ## SOP Legal Documents Intake Portal - Pandemic Preparedness and Digital Transformation 
 <div align="center">
