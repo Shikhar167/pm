@@ -17,8 +17,8 @@ I probably had the most fun I've ever had building software during my 3 month in
 
 #### **Associate Product Manager @ Wolters Kluwer, Chennai (_Jan'20 - Dec'22_)**
 <div align="center">
-  <a href="https://www.delet.com/" target="_blank">
-<img src="assets/deletinc_cover.jpeg" alt="Delet.com" title="Delet.com" style="width:500px; height:200px; object-fit: cover;"/>
+  <a href="https://www.wolterskluwer.com/en" target="_blank">
+<img src="assets/Wolters_Kluwer_Logo.jpg" alt="WK" title="WK" style="width:500px; height:200px; object-fit: cover;"/>
   </a>
 </div>
 I joined WK as a Product Analyst fresh out of college and eventually took up an APM role there for a SaaS product in the Legal Services domain. The 3 years I spent there were transformative to say the least. I worked on high-impact projects that generated millions for the organization and managed to develop strong professional relationships along the way 😁
