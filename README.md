@@ -46,14 +46,14 @@ Mphasis was my first professional experience during my junior year of undergrad,
 
 <h1 style="color:green;">Stuff I've built🤖</h1>	
 
-#### **LogDetect.AI**
+### **LogDetect.AI**
 <div align="center">
    <iframe width="500" height="400" style="border-radius:15px" src="https://www.youtube.com/embed/eekGkLPNUWY?si=YeXKuR5t_MUIO-t9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 Remember all the times you missed a meeting and had to ask multiple people just to know what was decided? What if you had a dedicated AI assistant who you could ask anything about the meetings you missed, and it always gave you up-to-date and accurate answers? LogDetect.AI is exactly that. <a href = "https://github.com/Shikhar167/LogDetect.AI" text="_blank">Check it out here!</a>
 <br><br>
 
-#### **Best XI**
+### **Best XI**
 <div align="center">
  <iframe width="500" height="400" style="border-radius:15px" src="https://www.youtube.com/embed/7YkEAGLmHzQ?si=YF3LSgnemMVltgaw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
@@ -63,33 +63,22 @@ Scraped a bunch of data from the IPL 2024 cricket tournament, performed data cle
 <br>
 
 <h1 style="color:green;">Moments in time📸</h1>
-## Director - Entrepreneurship Cell, VIT
+### **Director - Entrepreneurship Cell, VIT**
 <div align="center">
 <img class="green-border" src="assets/dir.png" alt="Dir" title="Dir" width="500" height="400" style="border-radius: 15px;"/>
 </div>
 
 
-## Co-founder - ”Nirvaah” (Translation : Subsistence)
+### **Co-founder - ”Nirvaah” (Translation : Subsistence)**
 <div align="center">
-<img src="assets/mathi.png" alt="Mathi" title="Mathi" width="500" height="400"/>
+<img class="green-border" src="assets/mathi.png" alt="Mathi" title="Mathi" width="500" height="400" style="border-radius: 15px;"/>
 </div>
 
-- Started an initiative to empower rural women of Vellore to open shops and promote their products within campus
-- Promoted a canteen named “Mathi” on campus, run entirely by elderly women and boosted sales by 35%<br><br>
 
-## Delegate - Entrepreneurship Camp, Malaysia
+### Delegate - Entrepreneurship Camp, Malaysia
 <div align="center">
-<img src="assets/kl.png" alt="kl" title="kl" width="500" height="325"/>
+<img class="green-border" src="assets/kl.png" alt="kl" title="kl" width="500" height="400"style="border-radius: 15px;"/>
 </div>
 
-- Selected among 300 students for the Reactor E-Camp Design and Prototyping Contest organized in KL, Malaysia
-- Won the prototyping contest by designing a MVP for a peer-graded platform focused on upskilling teachers<br><br>
 
-
-
-
-## Chairman’s Award | Wolters Kluwer
-[View Credential](https://github.com/Shikhar167/Research-Projects-and-Awards/blob/master/Accolades/GIA%20win%20cred.png)
-- Received the prestigious enterprise-wide Chairman's Award for digital transformation of a critical application during the pandemic
-<br><br>
 
