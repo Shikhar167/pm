@@ -10,7 +10,7 @@ Pronounced '*Shik-Her-Sing*'. The name *Shikhar* is derived from 'shikhara', whi
 #### **GenAI Product Manager Intern @ Delet, Los Angeles (_May'24 - Aug'24_)**
 <div align="center">
   <a href="https://www.delet.com/" target="_blank">
-<img src="assets/deletinc_cover.jpeg" alt="Delet.com" title="Delet.com" style="width:500px; height:200px; object-fit: cover;border-radius: 15px;"/>
+<img src="assets/deletinc_cover.jpeg" alt="Delet.com" title="Delet.com" style="width:500px; height:200px; object-fit: cover;border-radius: 15px;border: 2px solid green;"/>
   </a>
 </div>
 I probably had the most fun I've ever had building software during my 3 month internship at Delet. I led a team of 4 devs as a PM+Dev to launch a GenAI Leasing Agent feature for the Delet app. Read further about my experience <a href = "https://www.linkedin.com/posts/shikharsingh167_product-productmanagement-pm-activity-7222910729174097920-PczX?utm_source=share&utm_medium=member_desktop" text="_bkank">here!</a>
@@ -18,7 +18,7 @@ I probably had the most fun I've ever had building software during my 3 month in
 #### **Associate Product Manager @ Wolters Kluwer, Chennai (_Jan'20 - Dec'22_)**
 <div align="center">
   <a href="https://www.wolterskluwer.com/en" target="_blank">
-<img src="assets/Wolters_Kluwer_Logo.jpg" alt="WK" title="WK" style="width:500px; height:200px; object-fit: cover;border-radius: 15px;"/>
+<img src="assets/Wolters_Kluwer_Logo.jpg" alt="WK" title="WK" style="width:500px; height:200px; object-fit: cover;border-radius: 15px;border: 2px solid green;"/>
   </a>
 </div>
 I joined WK as a Product Analyst fresh out of college and eventually took up an APM role there for a SaaS product in the Legal Services domain. The 3 years I spent there were transformative to say the least. I worked on high-impact projects that generated millions for the organization and managed to develop strong professional relationships along the way 😁
@@ -26,7 +26,7 @@ I joined WK as a Product Analyst fresh out of college and eventually took up an 
 #### **Data Science Intern @ Mphasis, Bengaluru (_May'19 - Jul'19_)**
 <div align="center">
   <a href="https://www.mphasis.com/home/innovation/nextlabs.html" target="_blank">
-<img src="assets/Mphasis_Logo.jpg" alt="Mphasis" title="Mphasis" style="width:500px; height:200px; object-fit: cover;border-radius: 15px;"/>
+<img src="assets/Mphasis_Logo.jpg" alt="Mphasis" title="Mphasis" style="width:500px; height:200px; object-fit: cover;border-radius: 15px;border: 2px solid green;"/>
   </a>
 </div>
 Mphasis was my first professional experience during my junior year of undergrad, and one I’m incredibly proud of. I learned new technology, worked with real-world datasets, and delivered impactful results. A highlight was presenting my project documentation to my manager and leaders, who were so impressed they showcased it to the entire team. I still keep two copies of my project report to this day—you can check it out <a href = "https://github.com/Shikhar167/Research-Projects-and-Awards/blob/master/Mphasis_Data_Science_Project/Mphasis_Internship.pdf" text="_bkank">here!</a>
