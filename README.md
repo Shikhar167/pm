@@ -41,7 +41,7 @@ I joined WK as a Product Analyst fresh out of college and eventually took up an 
 <img src="assets/Mphasis_Logo.jpg"  class="green-border" alt="Mphasis" title="Mphasis" style="width:500px; height:200px; object-fit: cover;border-radius: 15px;"/>
   </a>
 </div>
-Mphasis was my first professional experience during my junior year of undergrad, and one I’m incredibly proud of. I learned new technology, worked with real-world datasets, and delivered impactful results. A highlight was presenting my project documentation to my manager and leaders, who were so impressed they showcased it to the entire team. I still keep two copies of my project report to this day—you can check it out <a href = "https://github.com/Shikhar167/Research-Projects-and-Awards/blob/master/Mphasis_Data_Science_Project/Mphasis_Internship.pdf" text="_bkank">here!</a>
+Mphasis was my first professional experience during my junior year of undergrad, and one I’m incredibly proud of. I learned new technology, worked with real-world datasets, and delivered impactful results. A highlight was presenting my project documentation to my manager and leaders, who were so impressed they showcased it to the entire team. I still keep two copies of my project report to this day—you can check it out <a href = "https://github.com/Shikhar167/Research-Projects-and-Awards/blob/master/Mphasis_Data_Science_Project/Mphasis_Internship.pdf" text="_blank">here!</a>
 <br><br>
 
 <h1 style="color:green;">Stuff I've built🤖</h1>	
@@ -62,14 +62,12 @@ Scraped a bunch of data from the IPL 2024 cricket tournament, performed data cle
 <h3>...and a lot more <a href = "https://github.com/Shikhar167" text="_blank">here!</a></h3>
 <br>
 
-# Leadership and Volunteer Experience
+<h1 style="color:green;">Moments in time📸</h1>
 ## Director - Entrepreneurship Cell, VIT
 <div align="center">
-<img src="assets/dir.png" alt="Dir" title="Dir" width="500" height="325"/>
+<img class="green-border" src="assets/dir.png" alt="Dir" title="Dir" width="500" height="400" style="object-fit: cover;border-radius: 15px;"/>
 </div>
 
-- Built an ecosystem for the development of startups on-campus enabling 28 startups in fundraising and incubation
-- Organized Entrepreneurship Summit 2019, attended by 2500+ participants and 45 tech startups from South India<br><br>
 
 ## Co-founder - ”Nirvaah” (Translation : Subsistence)
 <div align="center">
@@ -87,30 +85,8 @@ Scraped a bunch of data from the IPL 2024 cricket tournament, performed data cle
 - Selected among 300 students for the Reactor E-Camp Design and Prototyping Contest organized in KL, Malaysia
 - Won the prototyping contest by designing a MVP for a peer-graded platform focused on upskilling teachers<br><br>
 
-## MediumGEN - "Medium" Style Articles using Large Language Models
-<div align="center">
-<img src="assets/mediumgn.png" alt="MediumGEN" title="MediumGEN" width="500" height="400"/>
-</div>
 
-[Link to project](https://github.com/rs2309/MediumGEN)
-- Fine tuned GPT 2 and LLAMA 2 using Low Rank Adaption (LoRA) on a dataset of 200K Medium Articles
-- Devised a weighted scoring mechanism, to assess coherence, tone, accuracy and writing style on a 10-pt scale
-- Experimented with prompting techniques to outscore baseline models by 15% across 40 generated articles<br><br>
 
-## IPL2024 - Data Driven Player Selector Portal
-<div align="center">
-<img src="assets/thumbnail.png" alt="IPL2024" title="IPL2024" width="500" height="400"/>
-</div>
-
-[Link to youtube demo](https://www.youtube.com/watch?v=7YkEAGLmHzQ&t=2s&ab_channel=ShikharSingh)
-- Crafted a BeautifulSoup web-scraper for automated IPL 2023 data collection from 10 teams and 74 matches
-- Processed, cleaned, and transformed data using Pandas and identified 8 KPIs to evaluate player performance
-- Curated Best XI from player stats using 8 extracted KPIs, showcased on an interactive Tableau dashboard<br><br>
-
-# Awards, Honors and Accolades
-## Merit Scholarship | VIT Vellore
-[View Credential](https://github.com/Shikhar167/Research-Projects-and-Awards/blob/master/Accolades/Shikhar%20Singh%20-%20Merit%20Scholarship.pdf)
-- Rewarded scholarship across 4 years of UG study in recognition of VITEEE’16 rank (top 3.5%) and excellent academic performance
 
 ## Chairman’s Award | Wolters Kluwer
 [View Credential](https://github.com/Shikhar167/Research-Projects-and-Awards/blob/master/Accolades/GIA%20win%20cred.png)
